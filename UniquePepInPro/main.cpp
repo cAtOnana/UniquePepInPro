@@ -8,8 +8,8 @@
 
 using namespace std;
 string proname{ "非同义突变.txt" };
-string spename{ "MHCCLM3_1.spectra" };
-string outname{ "MHCCLM3_1.uniquestatic" };
+string spename{ "LM3_1.spectra" };
+string outname{ "LM3_1.uniquestatic" };
 int main() {
 	ifstream inpro(proname);
 	vector<pro> prolist;

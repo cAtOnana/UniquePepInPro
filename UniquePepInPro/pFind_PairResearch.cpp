@@ -53,7 +53,7 @@ istream & operator>>(istream & in, vector<spectra> & list_result)
 		if (temp.prot.find("_SAP") != string::npos)
 		{
 			temp.is_mut = true;
-			temp.prot.erase(temp.prot.find("_SAP"), 4);
+			temp.prot.erase(temp.prot.find("_SAP"),6);
 		}
 		else
 			temp.is_mut = false;
