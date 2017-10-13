@@ -259,3 +259,18 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/UniquePepInPro/all_result_of_six_ztkSAPTheory_data_ensembl
+/UniquePepInPro/all_result_of_six_ztkSAPTheory_dataFromOnlyLib_ensembl
+/UniquePepInPro/非同义突变.txt
+/UniquePepInPro/MHCCLM3_2.uniquestatic
+/UniquePepInPro/MHCCLM3_2.spectra
+/UniquePepInPro/MHCCLM3_1.uniquestatic
+/UniquePepInPro/MHCCLM3_1.spectra
+/UniquePepInPro/MHCC97H_2.uniquestatic
+/UniquePepInPro/MHCC97H_2.spectra
+/UniquePepInPro/MHCC97H_1.uniquestatic
+/UniquePepInPro/MHCC97H_1.spectra
+/UniquePepInPro/Hep3B_2.uniquestatic
+/UniquePepInPro/Hep3B_2.spectra
+/UniquePepInPro/Hep3B_1.uniquestatic
+/UniquePepInPro/Hep3B_1.spectra

@@ -111,6 +111,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="pFind_PairResearch.cpp" />
+    <ClCompile Include="reflect.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pFind_PairResearch.h" />
+    <ClInclude Include="reflect.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
